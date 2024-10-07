@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding-inline-start: 0px;
+    list-style-type: none;
+    width:200px;
+    text-align: center;
+
+}
+
+li:hover{
+    /* font-weight: bolder */
+    background-color: lightblue
+}
